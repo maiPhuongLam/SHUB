@@ -1,4 +1,4 @@
-# Gas Station Management System
+# SHUB JSC TASK3
 
 This project implements a database schema for managing gas stations, their products, pumps, and transactions.
 

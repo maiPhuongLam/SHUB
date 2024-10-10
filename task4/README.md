@@ -1,4 +1,4 @@
-# TypeScript Data Processing Project
+# SHUB JSC TASK4
 
 This project implements a data processing algorithm and interacts with an API to fetch input data and submit results.
 
