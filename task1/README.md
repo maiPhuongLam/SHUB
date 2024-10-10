@@ -1,6 +1,6 @@
 # SHUB JSC TASK1
 
-This is a backend server built with ExpressJS using TypeScript. It provides a set of CRUD interfaces to allow users to interact with the service
+This is a backend server built with ExpressJS using TypeScript.
 
 ## Installation
 
