@@ -7,8 +7,9 @@ This project implements a database schema for managing gas stations, their produ
 The database consists of four main tables:
 
 1. `TRAM_XANG` (Gas Station)
-2. `TRU_BOM` (Pumps)
-3. `GIAO_DICH` (Transactions)
+2. `HANG_HOA` (Products)
+3. `TRU_BOM` (Pumps)
+4. `GIAO_DICH` (Transactions)
 
 ### Tables
 
